@@ -2,6 +2,10 @@
 
 REPL Team Greenfield Project
 
+![](https://s3-us-west-2.amazonaws.com/challengrimages/placeholder/architecture.jpg)
+![](https://s3-us-west-2.amazonaws.com/challengrimages/placeholder/crashninjaMobileSM.jpg)
+![](https://s3-us-west-2.amazonaws.com/challengrimages/placeholder/ionic.jpg)
+
 Project Lead: Jordan Winkelman  
 Scrum Master: Jia Li  
 Developers: Cyrus Gomez, Stephen Donahue, Royce Leung  
